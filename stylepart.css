@@ -23,7 +23,7 @@
 
 }
 .background_section_card{
-    background-image:url("./images/backgroundimage.jpg");
+    background-image:url("https://res.cloudinary.com/dookrlpdy/image/upload/v1688225814/Frontend_Backend_Hero_jnqsnn.jpg");
     background-size:cover;
     height:100vh;
 }
